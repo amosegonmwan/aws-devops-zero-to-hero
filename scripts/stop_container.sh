@@ -9,4 +9,4 @@ if [ -n "$containerid" ]; then
     echo "Stopped and removed container: $containerid"
 else
     echo "No running containers found."
-fi
+fi 
